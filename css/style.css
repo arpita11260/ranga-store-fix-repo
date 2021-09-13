@@ -22,7 +22,7 @@ body {
 }
 .search-box {
   border: 1px solid green;
-  width: 256px;
+  width: 281px;
   border-radius: 5px;
   margin: auto;
   margin-top: 20px;
@@ -30,6 +30,7 @@ body {
   border-right: none;
 }
 .search-button {
+  margin-left: 25px;
   background-color: black;
   color: white;
 }
